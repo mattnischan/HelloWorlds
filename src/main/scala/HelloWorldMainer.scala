@@ -1,0 +1,3 @@
+object HelloWorldMainer extends Mainer {
+
+}
